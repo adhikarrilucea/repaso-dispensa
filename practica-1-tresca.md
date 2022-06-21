@@ -10,10 +10,10 @@ absolutamente irrelevante, ya que la presenta práctica no tiene otro cometido m
 el lenguage *markdown*.
 ### Conclusión
 En breves momentos, Adhik observará si ha entendido el uso del lenguaje *markdown*.
-####+ Epílogo
+####  Epílogo
 Adhik ahora está desde su terminal. Creo que no estoy escribiendo en *markdown* y tampoco tengo claro 
 que esto sea un readme.
-####+ Repílogo
+#### Repílogo
 Adhik ha vuelto a *GitHub* y ha añadido un ".md" al **final del título**. De este modo, podemos decir que hemos aprendido las siguientes cosas:
 * Hay que ser resiliente.
 * Nunca hay que rendirse.
