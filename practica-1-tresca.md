@@ -13,3 +13,11 @@ En breves momentos, Adhik observará si ha entendido el uso del lenguaje *markdo
 #### + Epílogo
 Adhik ahora está desde su terminal. Creo que no estoy escribiendo en *markdown* y tampoco tengo claro 
 que esto sea un readme.
+#### + Repílogo
+Adhik ha vuelto a *GitHub* y ha añadido un ".md" al **final del título**. De este modo, podemos decir que hemos aprendido las siguientes cosas:
+* Hay que ser resiliente.
+* Nunca hay que rendirse.
+* Los amigos están para ayudarse.
+* La conciencia sobre la interdependencia es la conciencia de las acuciantes devastaciones derivadas del capitalismo tardío.
+##### Despedida
+Un ~~abrazo~~ besazo.
